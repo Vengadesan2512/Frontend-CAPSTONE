@@ -16,22 +16,3 @@ Integration: Axios, Bootstrap
 Getting Started
 To get started with Efficient Kitchen Management, follow these steps:
 
-Clone the repository to your local machine.
-Install the necessary dependencies using npm install.
-[Additional setup instructions go here, such as configuring the backend or setting up a database.]
-Start the development server using npm start.
-Access the application in your web browser at http://localhost:3000.
-Contributing
-We welcome contributions from the community to enhance the functionality and usability of Efficient Kitchen Management. If you'd like to contribute, please follow these guidelines:
-
-Fork the repository and create your branch from main.
-Make your changes and ensure that they adhere to the project's coding conventions.
-Test your changes thoroughly.
-Submit a pull request detailing the changes you've made and any relevant information.
-License
-This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code as you see fit. See the LICENSE file for more details.
-
-Contact
-If you have any questions, suggestions, or feedback regarding Efficient Kitchen Management, feel free to reach out to us at [email@example.com].
-
-With Efficient Kitchen Management, simplify your cooking experience and take your culinary skills to new heights. Happy cooking! 🍳🥗🍲
